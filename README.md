@@ -46,17 +46,27 @@ List the steps.
 
 ### 2 - Two Katas
 
-#### 2.1 Fahrenheit-To-Celcius Converter
+Jeg har fulgt fremgangsmåden "Test Driven Development" med udgangspunkt i "red-green-refactor". 
 
-#### 2.2 Roman Numeral Kata
+Link til [test-mappen](https://github.com/amandajuhl95/AssignmentOne-Test/blob/master/src/test/java/KatasTest.java) som indeholder test for både Fahrenheit-To-Celcius converter og Roman Numeral Converter
+
+Link til [klassen Katas](https://github.com/amandajuhl95/AssignmentOne-Test/blob/master/src/main/java/Katas.java) som indeholder metoderne tilknyttet testene for både Fahrenheit-To-Celcius converter og Roman Numeral Converter
 
 ### 3 - Thoughts on TDD
 
 #### What was positive and good about using TDD?
 
+Denne fremgangsmåde sikre at man laver en metode som opfylder sin test, i stedet for at lave en test som opfylder metoden. Samtidig er det positivt at man bliver tvunget til at fokusere på dele af funktionaliteten og ikke hele applikationen. 
+
 #### What was annoying or difficult?
+
+Det kan være svært at finde ud af hvor man skal starte henne.
 
 #### What surprised you?
 
+Hvor meget lettere det var at lave metoderne efterfølgende.
+
 #### Did TDD help you write some tests you wouldn’t otherwise have thought of?
+
+Jeg har lavet nogle ret simpele tests, som helt sikkert også skulle kunne tage højde for fejl af systemer eller eventuelle begrænsninger. Derfor vil jeg ikke nødvendigvis sige at fremgangsmåden fik mig til at tænke på tests, som jeg ikke ville have tænkt over hvis jeg havde fulgt en anden fremgangsmåde. 
 
