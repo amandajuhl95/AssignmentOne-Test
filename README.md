@@ -9,12 +9,9 @@ reasons for the man not dying.
 
 1. Skudet rammer manden et ikke-dødeligt sted.
 2. Kvinden skyder med løse skud.
-3. Manden er et hologram.
-4. Kvinden rammer forbi.
-5. Manden har skudsikker vest på.
-6. Manden fik øjeblikkelig lægehjælp, som reddede hans liv.
-7. Manden er uddødelig.
-8. De spiller lasertag.
+3. Kvinden rammer forbi.
+4. Manden har skudsikker vest på.
+5. Manden fik øjeblikkelig lægehjælp, som reddede hans liv.
 
 #### 1.2 Alien
 
